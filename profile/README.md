@@ -11,4 +11,4 @@
 - [Nyxt Browser Founder, John Mercouris joins Interlock](https://medium.com/interlockweb3/nyxt-browser-founder-john-mercouris-joins-interlock-db740ed5fdde)
 - [Introducing the $INTR Token](https://medium.com/interlockweb3/introducing-the-ilock-token-2f91718e69b)
 
-[View all blog posts &rarr;](https://interlockweb3.medium.com/x)
+[View all blog posts &rarr;](https://medium.com/interlockweb3)
