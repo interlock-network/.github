@@ -1,5 +1,7 @@
+<!-- @format -->
+
 # Reporting Security Issues
 
-We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
+We appreciate your efforts to responsibly disclose your security findings.
 
-To report a security issue please visit our Discord server: https://bit.ly/intldiscord
+To report a security issue, please email us at [security@interlock.network](mailto:security@interlock.network)
