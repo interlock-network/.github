@@ -3,7 +3,7 @@
 [homepage]: https://www.contributor-covenant.org
 
 # Interlock Contributor Code of Conduct
-
+Translations are available at https://www.contributor-covenant.org/translations.
 ## Preamble
 
 Interlock strives to make the web more secure for everyone. We can only do that if we create a community that is healthy and wecloming for everyone. Our code of conduct is based on the [Contributor Covenant](homepage) v2.0, which is used by OWASP, Mozilla, Ruby for Cats, [and many others](https://www.contributor-covenant.org/adopters/).
@@ -36,7 +36,7 @@ Examples of unacceptable behavior include:
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, knowledgebase edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope
 
@@ -87,4 +87,4 @@ Community leaders will follow these Community Impact Guidelines in determining t
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 
-For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. 
