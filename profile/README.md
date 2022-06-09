@@ -7,8 +7,7 @@
 * 🦩 Feeling social? [Join our discord community](https://bit.ly/intldiscord)
 
 #### Recent blog posts
-
+- [Meet Interlock's CTO Erhan Justice](https://medium.com/interlockweb3/meet-interlocks-cto-erhan-justice-76d10114ff32)
 - [Nyxt Browser Founder, John Mercouris joins Interlock](https://medium.com/interlockweb3/nyxt-browser-founder-john-mercouris-joins-interlock-db740ed5fdde)
-- [Introducing the $INTR Token](https://medium.com/interlockweb3/introducing-the-ilock-token-2f91718e69b)
 
 [View all blog posts &rarr;](https://medium.com/interlockweb3)
