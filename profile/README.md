@@ -8,10 +8,12 @@
 
 #### Our Interlock Academy blog is up on our Website! Check out our recent blog posts here
 
+- [How to Keep Your Seed Phrase Safe](https://www.interlock.network/post/how-to-keep-your-seed-phrase-safe) 
+- [Interlock Scoop for September 19](https://www.interlock.network/post/interlock-scoop-september-19-2022)
+- [What is a Honeypot Scam](https://www.interlock.network/post/what-is-a-honeypot-scam)
 - [Crypto Rug Pull: A Guide](https://www.interlock.network/post/crypto-rug-pull-a-guide)
 - [Crypto phishing scams: What is a common indicator of a phishing attempt?](https://www.interlock.network/post/crypto-phishing-scams)
 - [Interlock AMA recap: Cryptosecurity discussions](https://www.interlock.network/post/interlock-ama-recap-crypto-security-discussions)
-- [Meet Interlock's CTO Erhan Justice](https://medium.com/interlockweb3/meet-interlocks-cto-erhan-justice-76d10114ff32)
-- [Nyxt Browser Founder, John Mercouris joins Interlock](https://medium.com/interlockweb3/nyxt-browser-founder-john-mercouris-joins-interlock-db740ed5fdde)
+
 
 [View all blog posts &rarr;](https://www.interlock.network/blogs)
