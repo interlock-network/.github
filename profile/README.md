@@ -10,11 +10,11 @@
 #### Our Interlock Academy blog is up on our Website! Check out our recent blog posts here
 
 - [Web3, Meet ThreatSlayer](https://www.interlock.network/post/web-3-meet-threatslayer)
+- [ThreatSlayer: Web3 Security Q&A with CEO Rick Deacon](https://www.interlock.network/post/threatslayer-web3-security)
+- [Interlock and Privacy: Why we chose Aleph Zero](https://www.interlock.network/post/interlock-and-privacy-why-we-chose-aleph-zero)
+- [Under the Hood: ThreatSlayer’s Supervised Learning AI](https://www.interlock.network/post/under-the-hood-threatslayers-supervised-learning-ai)
 - [Crypto Bridge Hacks: What Are They?](https://www.interlock.network/post/crypto-bridge-hacks-what-are-they)
 - [2022 Year in Review](https://medium.com/interlockweb3/2022-year-in-review-the-interlock-team-hits-its-stride-eb3f88a85793?source=collection_home---4------1-----------------------)
 - [What is a Crypto Audit?](https://www.interlock.network/post/what-is-a-crypto-audit)
-- [Do you need a VPN for Crypto Trading?](https://www.interlock.network/post/crypto-and-vpn-do-you-need-a-vpn-for-crypto-trading)
-- [How to Keep Your Seed Phrase Safe](https://www.interlock.network/post/how-to-keep-your-seed-phrase-safe) 
-
 
 [View all blog posts &rarr;](https://www.interlock.network/blogs)
