@@ -3,7 +3,7 @@
 > Decentralized security, incentivized for everyone! Stay protected online and earn ``$ILOCK `` token for making DeFi safer. Introducing Interlock, blockchain-based security products for individuals and enterprises. By leveraging blockchain technology and Artificial Intelligence (AI), we harness the power of the crowd to share essential threat intelligence data between consumers and enterprises,
 resulting in a safer internet for all.
 
-* :jigsaw: **Download our browser extension [ThreatSlayer](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)** 
+* :jigsaw: **Download our browser extension [ThreatSlayer 20,000+ users](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)** 
 * 🗺️ Interested in what new things are coming up next? [Check out Interlock's roadmap](https://docs.interlock.network/#roadmap)  or [Check out our Tech Tuesday Updates!](https://twitter.com/interlockweb3/status/1691461726968180736?s=20)
 * 🪙 Learn more about [`$ILOCK` tokenomics and release schedule](https://www.interlock.network/post/introducing-ilock-cybersecurity-token)
 * 🦩 Feeling social? [Join our discord community](https://bit.ly/intldiscord) or [Follow us on Twitter](https://bit.ly/ilocktwitter)
