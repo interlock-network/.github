@@ -4,7 +4,7 @@
 resulting in a safer internet for all.
 
 * 🖥️ Read our [Whitepaper](https://www.interlock.network/whitepaper)
-* * :book: Read more about us [Here](https://docs.interlock.network/)
+* :book: Read more about us [Here](https://docs.interlock.network/)
 * :jigsaw: Download our browser extension [ThreatSlayer 20,000+ users](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)** 
 * 🗺️ Interested in what new things are coming up next? [Check out Interlock's roadmap](https://www.interlock.network/whitepaper#Roadmap) 
 * 🪙 Learn more about [`$ILOCK` tokenomics and release schedule](https://docs.interlock.network/token/supply.html)
