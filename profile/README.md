@@ -4,10 +4,9 @@
 resulting in a safer internet for all.
 
 * 🖥️ Read our newest version of our [Whitepaper](https://www.interlock.network/whitepaper)
-* :book: Read more about us [Here](https://docs.interlock.network/)
 * :jigsaw: Download our browser extension [ThreatSlayer 200,000+ users!!!](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)** 
 * 🗺️ Interested in what new things are coming up next? [Check out Interlock's roadmap](https://www.interlock.network/whitepaper#Roadmap) 
-* 🪙 Learn more about [`$ILOCK` tokenomics and release schedule](https://docs.interlock.network/token/supply.html)
+* 🪙 Learn more about [`$ILOCK` tokenomics and release schedule](https://www.interlock.network/tokenomics)
 * 🦩 Feeling social? [Join our discord community](https://bit.ly/intldiscord) or [Follow us on Twitter](https://bit.ly/ilocktwitter)
 
 #### Our Interlock Academy blog is up on our Website! Check out our recent blog posts:
