@@ -11,14 +11,14 @@ resulting in a safer internet for all.
 
 #### Our Interlock Academy blog is up on our Website! Check out our recent blog posts:
 
+- [How to Use Security Staking](https://www.interlock.network/blog/how-to-use-security-staking)
+- [Interlock Token Launch: Navigating the CEX Maze and Choosing a Sustainable Path](https://www.interlock.network/blog/interlock-token-launch-navigating-the-cex-maze-and-choosing-a-sustainable-path)
+- [ThreatSlayer Unleashes Rewards System and Security Staking to Crowdsource Web3 Security](https://www.interlock.network/blog/threatslayer-unleashes-rewards-system-and-security-staking-to-crowdsource-web3-security)
 - [ThreatSlayer Update: Everything You Need to Know](https://www.interlock.network/blog/threatslayer-update-everything-you-need-to-know)
-- [Interlock Appoints Chris to Lead Ambassador Program](https://www.interlock.network/blog/interlock-appoints-chris-to-lead-ambassador-program)
 - [The Science Behind The Slayer: A Closer Look at ThreatSlayer's Backend Tech](https://www.interlock.network/blog/the-science-behind-the-slayer-a-closer-look-at-threatslayers-backend-tech)
 - [Watch Now: Interlock Featured on "Elevator Pitch"](https://www.interlock.network/blog/watch-now-interlock-featured-on-elevator-pitch)
-- [$ILOCK to Launch on Arbitrum and Aleph Zero, Embracing a Multi-Chain Future](https://www.interlock.network/blog/ilock-to-launch-on-arbitrum-and-aleph-zero-embracing-a-multi-chain-future)
 - [Technical Analysis of Interlock's Reward System](https://www.interlock.network/post/ilock-technical-analysis-of-interlocks-reward-system)
 - [Introducing $ILOCK: Cybersecurity token](https://www.interlock.network/post/introducing-ilock-cybersecurity-token)
 - [Interlock’s AI: Our Commitment to Continuous Improvements](https://www.interlock.network/post/interlocks-ai-our-commitment-to-continuous-improvements)
-- [Web3, Meet ThreatSlayer](https://www.interlock.network/post/web-3-meet-threatslayer)
 
 [View all blog posts &rarr;](https://www.interlock.network/blogs)
